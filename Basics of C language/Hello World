@@ -1,9 +1,7 @@
-// This is a single line comment (using "//" before any line) anything succeeded by it for a single line will not be compiled and hence will not be executed either.
-// By comments, I will be able to explain steps in my code.
-// Below is the most basic program of any programming language which is printing Hello World !! in C language.
-#include <stdio.h>   // tells compiler, for precompiled header files to be included/loaded. 
-int main() // compiler starts execution fron main hence the control of flow of code starts from main, int is the data type of main() function which I will explain later.
+// Below is the most basic program of any programming language which is printing Hello World !! here, in C language.
+#include <stdio.h>   
+int main() 
 { 
-  printf("Hello World !!"); //displays the content (here string due to being enclosed within double quotes, ("") ) which is passed into this function.
-  return 0;
+  printf("Hello World !!"); 
+  return 0; 
 }
