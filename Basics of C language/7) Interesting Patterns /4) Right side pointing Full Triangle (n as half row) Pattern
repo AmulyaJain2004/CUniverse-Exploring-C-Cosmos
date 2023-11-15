@@ -13,7 +13,7 @@ int main()
 {
     int n;
     
-    printf("Enter the number of rows \n");
+    printf("Enter the half number of rows to show pattern of Right Side pointing Full Triangle: -\n");
     scanf("%d",&n);
 
     for (int i = 1; i<=n; i++)
