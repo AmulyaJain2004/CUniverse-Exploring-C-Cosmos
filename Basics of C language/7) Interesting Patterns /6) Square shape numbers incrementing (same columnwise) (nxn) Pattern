@@ -1,4 +1,4 @@
-/*Square "number same columnwise"
+/*Square "number incrementing and same columnwise"
   Pattern for n=5 is   1 2 3 4 5 
                        1 2 3 4 5
                        1 2 3 4 5  
@@ -10,7 +10,7 @@ int main()
 {
     int n;
     
-    printf("Enter the number of rows to show Square pattern "number same columnwise": -\n");
+    printf("Enter the number of rows to show Square pattern "number incrementing and same columnwise": -\n");
     scanf("%d",&n);
 
     for (int i = 1; i<=n; i++ )
