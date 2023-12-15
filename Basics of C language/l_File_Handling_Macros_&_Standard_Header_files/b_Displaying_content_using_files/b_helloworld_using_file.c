@@ -3,7 +3,7 @@ int main()
 {
     FILE *fp;
     char ch; 
-    fp =fopen("hello_world.txt", "r");
+    fp =fopen("a_hello_world.txt", "r");
     while(1)
     {
         ch = fgetc(fp);
