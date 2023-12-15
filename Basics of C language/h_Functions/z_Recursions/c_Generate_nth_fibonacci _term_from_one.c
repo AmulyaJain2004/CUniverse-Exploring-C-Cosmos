@@ -16,6 +16,7 @@ int main()
     printf("Enter the number upto which nth term of fibonacci has to be created: -\n");
     scanf("%d",&n);
     
-    Generate_nth_fibonacci(n);
+    int last_term = Generate_nth_fibonacci(n);
+    printf("%d",last_term);
     return 0;
 }
