@@ -19,6 +19,12 @@ int main()
     {
         printf("%d element in array: %d\n",(n-i),arr[n-i-1]);
     }
-
+    // or
+    /*
+        for (int i =n-1; i>=0;i--)
+        {
+            printf("%d element in array: %d\n",(i),arr[i]);
+        }
+    */
     return 0;
 }
