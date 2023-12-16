@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define MATCHES 81
+#define MATCHES 21
 
 int Game(int matches_num, int choice)
 {
