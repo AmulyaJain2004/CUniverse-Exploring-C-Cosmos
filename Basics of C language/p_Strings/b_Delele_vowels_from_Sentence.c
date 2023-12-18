@@ -28,7 +28,7 @@ void Delete_vowel(char *ref , char *tochange)
 int main()
 {
     char *sentence = (char*)malloc(MAX_LENGTH*sizeof(char));
-    printf("Enter a sentence of maximum 80 characters: -\n");
+    printf("Enter a sentence of maximum %d characters: -\n", MAX_LENGTH);
     gets(sentence);
 
     char *new_sen = (char*)malloc(MAX_LENGTH*sizeof(char));
