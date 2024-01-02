@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -77,31 +76,32 @@ int main()
             computer_choice = 'S';
         }
 
-        printf("\n\n\n\n\t\t\t\tEnter R for ROCK, P for PAPER and S for SCISSOR\n\t\t\t\t\t\t\t");
+        printf("\n\nEnter R for ROCK, P for PAPER and S for SCISSOR\n\n");
+        fflush(stdin);
         scanf("%c", &user_choice);
 
         int result = RPS_game(user_choice, computer_choice);
         if (result == 0)
         {
-            printf("This Game is a Draw, No-one wins!!\n");
+            printf("\n\nThis Game is a Draw, No-one wins!!\n\n");
         }
         else if (result == -1)
         {
-            printf("This Game is won by Computer!!\n");
+            printf("\n\nThis Game is won by Computer!!\n\n");
         }
         else // result == 1
         {
-            printf("This Game is won by you!!\n");
+            printf("\n\nThis Game is won by you!!\n\n");
         }
 
-        printf("\n\n########################## Game ends ##########################\n\n");
+        printf("\n\n############################ Game ends ############################\n\n");
 
-        printf("Do you want to play again? \n\t\tEnter 1 for \"YES\" \n\t\tEnter 0 for \"NO\"\n");
+        printf("\t\tDo you want to play again? \n\t\tEnter 1 for \"YES\" \n\t\tEnter 0 for \"NO\"\n");
         scanf("%d",&play);
 
     }
 
     printf("Terminating the Game\n");
-    
+
     return 0;
 }
