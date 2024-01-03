@@ -1,6 +1,9 @@
 # CUniverse-Exploring-C-Cosmos: Embark on a Celestial Journey through the C Programming Galaxy! 🚀
 
 Welcome, cosmic coders, to the CUniverse-Exploring-C-Cosmos repository—a celestial hub of code and resources that unlocks the mysteries of the C programming language. Join me on an exhilarating journey through the vast expanse of the C Cosmos as we unravel the secrets of this powerful programming universe!
+<!-- # CUniverse-Exploring-C-Cosmos: Embark on a Celestial Journey through the C Programming Galaxy! 🚀
+
+Welcome, cosmic coders, to the CUniverse-Exploring-C-Cosmos repository—a celestial hub of code and resources that unlocks the mysteries of the C programming language. Join me on an exhilarating journey through the vast expanse of the C Cosmos as we unravel the secrets of this powerful programming universe!
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -27,7 +30,7 @@ To commence your journey through the C Cosmos, follow these steps: -
 3. Follow the instructions provided in each project's README for building and running the code.
 
 ## Directory Structure
-Explore the constellations of `/Basics of C language`, `/Advance C Programming`traverse the galaxies of `/projects`. Together, we'll create a celestial atlas of C programming excellence.
+Explore the constellations of `/Basics of C language`, `/Advance C Programming`traverse the galaxies of `/projects` and harness the power of `/resources`. Together, we'll create a celestial atlas of C programming excellence.
 
 The repository is organized as follows: -
 
@@ -35,7 +38,7 @@ The repository is organized as follows: -
 - `/Basics of C language`: Contains small C programming examples for learning specific concepts.
 - `/C projects`: Houses larger C projects that demonstrate practical applications of the language.
 - `/Advance C Programming`: Contains Advance C programming examples for learning more advanced concepts from Different Resources on internet.
-<!-- - `/resources`: Additional resources, such as documentation and cheat sheets. -->
+- `/resources`: Additional resources, such as documentation and cheat sheets.
 
 Feel free to contribute by adding more examples, projects, or improving existing ones.
 
@@ -68,4 +71,4 @@ If you'd like to contribute to this repository, please follow these steps:
 
 We welcome contributions of all kinds, from bug fixes to new features.
 
-Thank you for joining the CUniverse expedition. Let's explore the vastness of C together—where the code meets the cosmos!
+Thank you for joining the CUniverse expedition. Let's explore the vastness of C together—where the code meets the cosmos! -->
