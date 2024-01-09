@@ -1,8 +1,3 @@
-/*
-   Perfect number is a positive number which sum of all positive divisors excluding that number is equal to that number.
-   Example: 6 is a perfect number as the divisors of 6 are 1, 2, and 3 & Sum of its divisors is 1 + 2 + 3 = 6
-*/
-
 #include <stdio.h>
 
 int main()
