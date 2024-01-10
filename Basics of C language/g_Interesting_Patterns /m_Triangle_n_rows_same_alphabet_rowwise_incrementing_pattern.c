@@ -1,4 +1,4 @@
-/* Traingle "number same rowwise"
+/* Traingle same alphabet rowwise incrementing Pattern
   Pattern for n=5 is   A
                        B B
                        C C C
