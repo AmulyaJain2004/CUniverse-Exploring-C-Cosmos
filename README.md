@@ -27,7 +27,7 @@ To commence your journey through the C Cosmos, follow these steps: -
 3. Follow the instructions provided in each project's README for building and running the code.
 
 ## Directory Structure
-Explore the constellations of `/Basics of C language`, `/Advance C Programming`traverse the galaxies of `/projects`. Together, we'll create a celestial atlas of C programming excellence.
+Explore the constellations of `/Basics of C language`, `/Advance C Programming`traverse the galaxies of `/C projects`. Together, we'll create a celestial atlas of C programming excellence.
 
 The repository is organized as follows: -
 
@@ -65,6 +65,9 @@ If you'd like to contribute to this repository, please follow these steps:
 
 5. Open a pull request on GitHub.
 
-We welcome contributions of all kinds, from bug fixes to new features.
+Contributions of all kinds, from bug fixes to new features, are warmly welcomed. If you have insights, corrections, or ideas to share, follow the steps mentioned in the [Contributing](#contributing) section to make your mark on this learning endeavor.
+
+<!-- ## License
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. -->
 
 Thank you for joining the CUniverse expedition. Let's explore the vastness of C together—where the code meets the cosmos! 
