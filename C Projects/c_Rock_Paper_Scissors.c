@@ -12,7 +12,7 @@ int RPS_game(char user_choice, char computer_choice)
     {
         return 1; // -> Rock wins
     }
-    else if (user_choice == 'R' && computer_choice == 'P') // Rock vs Paper
+    else if (user_choice == 'P' && computer_choice == 'R') // Paper vs Rock
     {
         return 1; // -> Paper wins
     }
@@ -28,9 +28,9 @@ int RPS_game(char user_choice, char computer_choice)
     {
         return -1; // -> Scissor wins
     }
-    else if (user_choice == 'P' && computer_choice == 'R') // Paper vs Rock
+    else if (user_choice == 'R' && computer_choice == 'P') // Rock vs Paper
     {
-        return -1; // -> Rock wins
+        return -1; // -> Paper wins
     }
 }
 
