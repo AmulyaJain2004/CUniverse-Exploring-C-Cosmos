@@ -38,12 +38,20 @@ int main()
     }
 
     temp = head;
-
     while (temp->next != NULL)
     {
         printf("%d ",temp->data);
         temp = temp->next;
     }
     printf("%d",temp->data);
+
+    // Free allocated memory
+    temp = head;
+    while (temp != NULL)
+    {
+        struct node *nextNode = temp->next;
+        free(temp);
+        temp = nextNode;
+    }
     return 0;
 }
