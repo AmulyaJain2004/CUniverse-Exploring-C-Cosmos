@@ -45,5 +45,14 @@ int main()
     }
 
     printf("\n The number of nodes in this linked list is: %d",count);
+
+    // Free allocated memory
+    temp = head;
+    while (temp != NULL)
+    {
+        struct node *nextNode = temp->next;
+        free(temp);
+        temp = nextNode;
+    }
     return 0;
 }
