@@ -1,6 +1,6 @@
 # CUniverse-Exploring-C-Cosmos: Embark on a Celestial Journey through the C Programming Galaxy! 🚀
 
-Welcome,cosmic coders, to the CUniverse-Exploring-C-Cosmos repository—a celestial hub of code and resources that unlocks the mysteries of the C programming language. Join me on an exhilarating journey through the vast expanse of the C Cosmos as we unravel the secrets of this powerful programming universe!
+Welcome, cosmic coders, to the CUniverse-Exploring-C-Cosmos repository—a celestial hub of code and resources that unlocks the mysteries of the C programming language. Join me on an exhilarating journey through the vast expanse of the C Cosmos as we unravel the secrets of this powerful programming universe!
 
 ## Table of Contents
 - [Introduction](#introduction)
